@@ -1,5 +1,5 @@
-[myacaddemy.oracle.com](myacademy.oracle.com)
-[iacademy2.oracle.com](iacademy2.oracle.com)
+[https://myacaddemy.oracle.com](https://myacademy.oracle.com)
+[https://iacademy2.oracle.com](httops://iacademy2.oracle.com)
 
 Identifikátory:
 * P = Primary key
