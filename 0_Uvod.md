@@ -1,4 +1,4 @@
-[https://myacaddemy.oracle.com/](https://myacademy.oracle.com/)  
+[https://myacaddemy.oracle.com/](https://academy.oracle.com/)  
 [https://iacademy2.oracle.com/](https://iacademy2.oracle.com/)
 
 Databáze
